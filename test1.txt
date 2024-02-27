@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is DCFB-51D2
-
- Directory of C:\Users\Hamza\Desktop\New folder
-
-02/27/2024  05:58 PM    <DIR>          .
-02/27/2024  05:58 PM    <DIR>          ..
-02/27/2024  05:58 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  84,321,931,264 bytes free
+change 1
